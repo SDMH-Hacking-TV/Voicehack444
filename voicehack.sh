@@ -36,7 +36,7 @@ echo " SUBSCRIBE MY CHANNEL 🔔 " | lolcat
 xdg-open https://syr.us/iiW
 echo ""
 clear
-
+ 
 #!/bin/bash
 # SayHello v1.0
 # coded by: github.com/thelinuxchoice/sayhello
