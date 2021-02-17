@@ -72,6 +72,7 @@ printf "\e[1;93m                SDMH-Hacking-TV       Any Device Voice Hack \e[0
  
 }
 
+
 stop() {
 
 checkngrok=$(ps aux | grep -o "ngrok" | head -n1)
